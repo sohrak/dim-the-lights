@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Dim The Lights</string>
+<string name="copyright">Version 1.0 \n\n(c) 2009 Cory Sohrakoff</string>
+<string name="how_to_play_title">How To Play</string>
+<string name="how_to_play_message">The object of the game is to turn off all of the blue lights on the game board. Lights are turned on or off by tapping them. Switching a light on or off will also cause the surrounding lights to switch on or off. You must turn off the lights in the minimum number of moves to acheive a perfect score of 100%.</string>
+<string name="game_complete">You dimmed the lights!</string>
+<string name="new_game">New Game</string>
+<string name="OK">OK</string>
+<string name="new_game_message">Touch the screen to start a new game.</string>
+<string name="high_scores_title">High Scores</string>
+<string name="clear">Reset Scores</string>
+
+</resources>
